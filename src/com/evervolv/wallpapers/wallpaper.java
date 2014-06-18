@@ -101,7 +101,6 @@ public class wallpaper extends Activity implements AdapterView.OnItemSelectedLis
         final String packageName = getApplication().getPackageName();
 
         addWallpapers(resources, packageName, R.array.wallpapers);
-        addWallpapers(resources, packageName, R.array.extra_wallpapers);
     }
 
     private void addWallpapers(Resources resources, String packageName, int list) {
