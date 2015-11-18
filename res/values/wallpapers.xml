@@ -24,6 +24,8 @@
         <item>wallpaper_fyre_exxodium</item>
         <item>wallpaper_shiningstar_exxodium</item>
         <item>wallpaper_evlogo</item>
+        <item>wallpaper_evstitched</item>
+        <item>wallpaper_evog</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -35,5 +37,7 @@
         <item>Fyre - Exxodium</item>
         <item>Shiningstar - Exxodium</item>
         <item>EVLogo - Evervolv</item>
+        <item>Stitched - Evervolv</item>
+        <item>OG - Evervolv</item>
     </string-array>
 </resources>
